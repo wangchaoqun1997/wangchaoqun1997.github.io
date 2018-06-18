@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 2967276967
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefab/wall.unity3d
+      Dependencies:
+        Dependency_0: materials.unity3d
+    Info_1:
+      Name: materials.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: prefab/sphere.unity3d
+      Dependencies:
+        Dependency_0: materials.unity3d
